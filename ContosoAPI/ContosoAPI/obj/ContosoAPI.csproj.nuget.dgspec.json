@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\GIT\\Katas\\ContosoAPI\\ContosoAPI\\ContosoAPI\\ContosoAPI.csproj": {}
+  },
+  "projects": {
+    "D:\\GIT\\Katas\\ContosoAPI\\ContosoAPI\\ContosoAPI\\ContosoAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GIT\\Katas\\ContosoAPI\\ContosoAPI\\ContosoAPI\\ContosoAPI.csproj",
+        "projectName": "ContosoAPI",
+        "projectPath": "D:\\GIT\\Katas\\ContosoAPI\\ContosoAPI\\ContosoAPI\\ContosoAPI.csproj",
+        "packagesPath": "C:\\Users\\Gustavo Palminha\\.nuget\\packages\\",
+        "outputPath": "D:\\GIT\\Katas\\ContosoAPI\\ContosoAPI\\ContosoAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gustavo Palminha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifacts-we1.farfetch.net/artifactory/api/nuget/nuget-beta": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
