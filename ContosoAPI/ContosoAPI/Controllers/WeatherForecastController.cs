@@ -22,7 +22,9 @@ namespace ContosoAPI.Controllers
             "Balmy", 
             "Hot", 
             "Sweltering", 
-            "Scorching"
+            "Scorching",
+            "Undefined",
+            "Snowy"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
